@@ -1,0 +1,25 @@
+{
+  "name": "microversion",
+  "version": "0.0.0",
+  "description": "Automatic file versioning using git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jon-hall/microversion.git"
+  },
+  "keywords": [
+    "file version",
+    "version",
+    "history",
+    "undo"
+  ],
+  "author": "Jon Hall <jon_hall@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jon-hall/microversion/issues"
+  },
+  "homepage": "https://github.com/jon-hall/microversion#readme"
+}
